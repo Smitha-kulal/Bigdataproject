@@ -1,2 +1,2 @@
 # Bigdataproject
-predicts disease using symptoms
+Predicts disease using symptoms 
